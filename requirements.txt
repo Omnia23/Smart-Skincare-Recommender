@@ -1,6 +1,8 @@
 streamlit
 pandas
 numpy
+matplotlib 
+seaborn 
 scikit-learn
 tensorflow-cpu
 tf-keras
