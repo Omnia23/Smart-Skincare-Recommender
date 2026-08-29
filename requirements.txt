@@ -1,6 +1,8 @@
-pandas 
+streamlit
+pandas
 numpy
-tensorflow 
-streamlit 
+scikit-learn
+tensorflow
+gdown
+pillow
 nltk
-Image 
